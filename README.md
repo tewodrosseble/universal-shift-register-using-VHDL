@@ -3,4 +3,4 @@
 
 <br> 
 **This project will implement the following universal shift register circuit using VHDL**
-<img src ='https://github.com/tewodrosseble/universal-shift-register-using-VHDL/blob/main/universal_shift_register.png' />
+<img src ='https://github.com/tewodrosseble/universal-shift-register-using-VHDL/blob/main/universal_shift_register.png' width='83%' />
